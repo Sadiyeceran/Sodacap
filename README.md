@@ -1,2 +1,2 @@
 # Sodacap
-Soda cap detextion 
+Soda cap detection 
